@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @baxaaka
-- 👀 I’m interested in Programing
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- I'M FRONTEND DEVELOPER
+- 010101010101010101010101010101
 
 <!---
 baxaaka/baxaaka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
